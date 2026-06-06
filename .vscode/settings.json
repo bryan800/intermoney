@@ -1,0 +1,5 @@
+{
+    "yaml.schemaStore.enable": false,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "cmake.sourceDirectory": "C:/Users/YAN/Desktop/interflex1/intermoney/windows/flutter"
+}
